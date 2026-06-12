@@ -33,16 +33,16 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'heiliaoshe88@gmail.com'
+    'heilss2233@gmail.com'
 ];
 
 var urls=[
-	'/', 
-	'/', 
-    '/',
+	'rxdeirlf.cc/', 
+	'rxdeirlf.cc/', 
+    'rxdeirlf.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://heilss.com";
+var JumpPage="https://kfshjmum.cc";
 
 var newestUrls = [];
 
@@ -51,8 +51,8 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://heilss.pages.dev',
-	'https://heilss.github.io/',
+	'https://heilss1.pages.dev',
+	'https://heilss1.github.io/',
 ];
 var foreverUrls = [
 	  'https://heilss.net',
