@@ -42,7 +42,7 @@ var urls=[
     'rxdeirlf.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://kfshjmum.cc";
+var JumpPage="https://heiliaoshe1.net";
 
 var newestUrls = [];
 
