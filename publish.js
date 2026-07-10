@@ -42,7 +42,7 @@ var urls=[
     'zsqdrbvgr.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://heiliaoshe1.net";
+var JumpPage="https://heiliaoshe2.net";
 
 var newestUrls = [];
 
