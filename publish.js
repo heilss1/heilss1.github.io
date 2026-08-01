@@ -42,7 +42,7 @@ var urls=[
     'nqxaftal.com,
 ];                                                                                                                  
 
-var JumpPage="https://heiliaoshe5.net";
+var JumpPage="https://heiliaoshe6.net";
 
 var newestUrls = [];
 
