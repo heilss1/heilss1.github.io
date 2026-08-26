@@ -42,7 +42,7 @@ var urls=[
     'dxntrcyf.cc/,
 ];                                                                                                                  
 
-var JumpPage="https://heiliaoshe7.net";
+var JumpPage="https://heiliaoshe8.net";
 
 var newestUrls = [];
 
