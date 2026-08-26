@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'arrvsbrv.cc/', 
 	'bsevialyj.cc/', 
-    'ffnkdoka.cc/,
+    'dxntrcyf.cc/,
 ];                                                                                                                  
 
 var JumpPage="https://heiliaoshe7.net";
