@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'mryvnnqm.cc',
+	'shmhxdpzk.cc',
 	'bsevialyj.cc',
-	'arrvsbrv.cc',
+	'mryvnnqm.cc',
 ];                                                                                                                  
 
 var JumpPage="https://heiliaoshe12.net";
