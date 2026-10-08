@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'arrvsbrv.cc/', 
-	'bsevialyj.cc/', 
-    'ibntgngz.cc/',
+	'mryvnnqm.cc',
+	'bsevialyj.cc',
+	'arrvsbrv.cc',
 ];                                                                                                                  
 
-var JumpPage="https://heiliaoshe11.net";
+var JumpPage="https://heiliaoshe12.net";
 
 var newestUrls = [];
 
